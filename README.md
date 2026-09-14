@@ -1,4 +1,7 @@
 # Machine Learning-Based Sentiment Analysis and Product Recommendation for Sephora Skincare Reviews
+<img width="643" height="348" alt="image" src="https://github.com/user-attachments/assets/b3fe1707-063c-4371-9a39-eadbbc7d51e7" />
+
+<img width="661" height="494" alt="image" src="https://github.com/user-attachments/assets/5528b48a-b340-4e91-bdfe-6f09f310825c" />
 
 This project predicts whether Sephora skincare reviews are recommended or not recommended using NLP and machine learning, then uses the model outputs and product-level review statistics to recommend skincare products.
 
