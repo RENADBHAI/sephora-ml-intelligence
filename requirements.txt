@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+notebook
+nbformat
+nbclient
+xgboost
+imbalanced-learn
+nltk
+textblob
+flask
+pypdf
